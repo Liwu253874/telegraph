@@ -167,9 +167,6 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
           </form>
       </div>
       <p style="font-size: 14px; text-align: center;">
-      2024年9月6号起<br>telegra.ph禁止了上传媒体文件，<br>此项目终结。<br>新软妹子图床请点击<a href="https://pic.3rmz.com">这里</a>。
-      </p>
-      <p style="font-size: 14px; text-align: center;">
         猛击<a href="https://www.253874.net/inv/" target="_blank" rel="noopener noreferrer">这里</a>自助获得里屋社区邀请码。
       </p>
       <p style="font-size: 14px; text-align: center;">
