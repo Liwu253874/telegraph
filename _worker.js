@@ -148,7 +148,7 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
 <body>
   <div class="background" id="background"></div>
   <div class="card">
-      <div class="title">Telegraph图床</div>
+      <div class="title">里屋Telegraph图床</div>
       <button type="button" class="btn" id="viewCacheBtn" title="查看历史记录"><i class="fas fa-clock"></i></button>
       <div class="card-body">
           <form id="uploadForm" action="/upload" method="post" enctype="multipart/form-data">
@@ -166,6 +166,7 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
               <div id="cacheContent" style="display: none;"></div>
           </form>
       </div>
+      <p>选择图片后自动上传，复制图片地址，贴入里屋发帖、回帖窗口即可。</p>
       <p style="font-size: 14px; text-align: center;">
         猛击<a href="https://www.253874.net/inv/" target="_blank" rel="noopener noreferrer">这里</a>自助获得里屋社区邀请码。
       </p>
