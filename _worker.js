@@ -166,6 +166,15 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
               <div id="cacheContent" style="display: none;"></div>
           </form>
       </div>
+      <p style="font-size: 14px; text-align: center;">
+      2024年9月6号起<br>telegra.ph禁止了上传媒体文件，<br>此项目终结。<br>新软妹子图床请点击<a href="https://pic.3rmz.com">这里</a>。
+      </p>
+      <p style="font-size: 14px; text-align: center;">
+        猛击<a href="https://www.253874.net/inv/" target="_blank" rel="noopener noreferrer">这里</a>自助获得里屋社区邀请码。
+      </p>
+      <p style="font-size: 14px; text-align: center;">
+      <a href="https://www.253874.net/" target="_blank" rel="noopener noreferrer">里屋</a>，是一个网上论坛。<br>曾名“游戏大杂烩”。<br>更被公众熟知的名字是“猫扑”。<br>诞生于1997年10月25日。<br>是中文web BBS的活化石。
+      </p>
       <p class="project-link">项目开源于 GitHub - <a href="https://github.com/0-RTT/telegraph" target="_blank" rel="noopener noreferrer">0-RTT/telegraph</a></p>
       <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js" type="application/javascript"></script>
       <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/5.2.7/js/fileinput.min.js" type="application/javascript"></script>
